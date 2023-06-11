@@ -1,0 +1,12 @@
+{
+  "name": "satoshi-site",
+  "version": "1.0.0",
+  "description": "I build websites for people in exchange for Sats",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Chris Grimmett <chris@grimtech.net>",
+  "license": "Unlicense"
+}
